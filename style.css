@@ -1,0 +1,72 @@
+.solid{
+    border: solid;
+}
+
+.dotted{
+    border-style: dotted;
+}
+
+.double{
+    border-style: double;
+}
+
+.groove{
+    border-style: groove;
+    border-color: red ;
+}
+
+
+.ridge{
+    border-style: ridge;
+    border-color: green;
+}
+
+.inset{
+    border-style: inset;
+    border-color: blue;
+}
+
+.outset{
+    border-style: outset;
+    border-color: rgb(146, 219, 231);
+}
+
+.none{
+    border-style: none;
+    border-color: tomato;
+}
+
+.hidden{
+    border-style: hidden;
+    border-color: teal;
+}
+
+.tamanho1{
+    border-style:  solid;
+    border-width: 5px;
+}
+
+.tamanho2{
+    border-style: dotted;
+    border-width: 5px;
+}
+
+.vermelho{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+
+.cores{
+    border-style: solid;
+    border-width: 10px;
+    border-top-color: brown;
+    border-left-color: blue;
+    border-right-color: chartreuse;
+    border-bottom-color: darkmagenta;
+}
+
+.abreviada{
+    border: 5px groove red;
+    border-radius: 5px;
+}
